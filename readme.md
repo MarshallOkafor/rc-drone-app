@@ -99,7 +99,7 @@ python3 server.py
 </p>
 
 <p align="center">
- ![rc-drone-app](https://github.com/MarshallOkafor/rc-drone-app/assets/89559173/4611b0c0-5cad-4bdc-afa6-8dbd2fcf2056)
+ <img src="https://github.com/MarshallOkafor/rc-drone-app/assets/89559173/4611b0c0-5cad-4bdc-afa6-8dbd2fcf2056.png" alt="RC_Drone_App">
 </p>
 
 1. When the user click the "Arm Drone" button, the application sends a HTTP request to the web server.
