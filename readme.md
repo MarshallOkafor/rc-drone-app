@@ -98,6 +98,10 @@ python3 server.py
   <img src="https://github.com/SLUSE-Spring2022/sprint4-team1-sprint4/assets/89559173/7d17a4ff-8d48-48b5-9408-ba2f2ede35ba.png" alt="RC_Drone_App">
 </p>
 
+<p align="center">
+ ![rc-drone-app](https://github.com/MarshallOkafor/rc-drone-app/assets/89559173/4611b0c0-5cad-4bdc-afa6-8dbd2fcf2056)
+</p>
+
 1. When the user click the "Arm Drone" button, the application sends a HTTP request to the web server.
 2. The server processes the request and sends it to the drone and returns a success or failure response to the app.
 3. There is also a ```text label``` at the top of the mobile app that displays messages to the user from the web server.
