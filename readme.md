@@ -95,10 +95,6 @@ python3 server.py
 # How the App Works
 
 <p align="center">
-  <img src="https://github.com/SLUSE-Spring2022/sprint4-team1-sprint4/assets/89559173/7d17a4ff-8d48-48b5-9408-ba2f2ede35ba.png" alt="RC_Drone_App">
-</p>
-
-<p align="center">
  <img src="https://github.com/MarshallOkafor/rc-drone-app/assets/89559173/4611b0c0-5cad-4bdc-afa6-8dbd2fcf2056.png" alt="RC_Drone_App">
 </p>
 
